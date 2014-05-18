@@ -1,6 +1,6 @@
 {
   "name": "etag",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Small thingy to create an etag from a String or Buffer",
   "main": "etag.js",
   "scripts": {
